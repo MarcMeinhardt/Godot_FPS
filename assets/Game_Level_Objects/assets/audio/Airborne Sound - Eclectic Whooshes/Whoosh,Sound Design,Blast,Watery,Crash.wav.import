@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Whoosh,Sound Design,Blast,Watery,Crash.wav-ba64abd8ef4675a759b6ec7fff02ab91.sample"
+
+[deps]
+
+source_file="res://assets/Game_Level_Objects/assets/audio/Airborne Sound - Eclectic Whooshes/Whoosh,Sound Design,Blast,Watery,Crash.wav"
+dest_files=[ "res://.import/Whoosh,Sound Design,Blast,Watery,Crash.wav-ba64abd8ef4675a759b6ec7fff02ab91.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/sci-fi_weapon_blaster_laser_boom_zap_08.wav-d20e05e37720dc3753c8c6609109af54.sample"
+
+[deps]
+
+source_file="res://assets/Game_Level_Objects/assets/audio/Gamemaster Audio - Sci-Fi Sounds and Sci-Fi Weapons/sci-fi_weapon_blaster_laser_boom_zap_08.wav"
+dest_files=[ "res://.import/sci-fi_weapon_blaster_laser_boom_zap_08.wav-d20e05e37720dc3753c8c6609109af54.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

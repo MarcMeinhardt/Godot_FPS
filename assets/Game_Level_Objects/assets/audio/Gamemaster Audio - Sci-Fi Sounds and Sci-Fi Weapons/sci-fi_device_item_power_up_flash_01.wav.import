@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/sci-fi_device_item_power_up_flash_01.wav-d9e8e5ba7c67b63de8eeceb436845df1.sample"
+
+[deps]
+
+source_file="res://assets/Game_Level_Objects/assets/audio/Gamemaster Audio - Sci-Fi Sounds and Sci-Fi Weapons/sci-fi_device_item_power_up_flash_01.wav"
+dest_files=[ "res://.import/sci-fi_device_item_power_up_flash_01.wav-d9e8e5ba7c67b63de8eeceb436845df1.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

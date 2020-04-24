@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Whoosh,Sound Design,Whip By,Airy to Whine,High.wav-d00d15af8b64a110a6802f905cfcaec0.sample"
+
+[deps]
+
+source_file="res://assets/Game_Level_Objects/assets/audio/Airborne Sound - Eclectic Whooshes/Whoosh,Sound Design,Whip By,Airy to Whine,High.wav"
+dest_files=[ "res://.import/Whoosh,Sound Design,Whip By,Airy to Whine,High.wav-d00d15af8b64a110a6802f905cfcaec0.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

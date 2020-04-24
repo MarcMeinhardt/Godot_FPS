@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/retro_collect_pickup_coin_03.wav-f35f2a3fe05e25f852ac24fb980b4a49.sample"
+
+[deps]
+
+source_file="res://assets/Game_Level_Objects/assets/audio/Gamemaster Audio - Retro 8Bit Sounds/retro_collect_pickup_coin_03.wav"
+dest_files=[ "res://.import/retro_collect_pickup_coin_03.wav-f35f2a3fe05e25f852ac24fb980b4a49.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

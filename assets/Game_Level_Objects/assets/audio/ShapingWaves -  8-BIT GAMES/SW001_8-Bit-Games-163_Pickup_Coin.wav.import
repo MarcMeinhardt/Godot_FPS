@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/SW001_8-Bit-Games-163_Pickup_Coin.wav-6df44bad750688e21669389ea45f9005.sample"
+
+[deps]
+
+source_file="res://assets/Game_Level_Objects/assets/audio/ShapingWaves -  8-BIT GAMES/SW001_8-Bit-Games-163_Pickup_Coin.wav"
+dest_files=[ "res://.import/SW001_8-Bit-Games-163_Pickup_Coin.wav-6df44bad750688e21669389ea45f9005.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

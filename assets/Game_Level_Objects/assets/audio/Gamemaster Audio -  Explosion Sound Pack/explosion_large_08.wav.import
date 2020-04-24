@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/explosion_large_08.wav-557dbc518d35541ac3b28cc6e40d2194.sample"
+
+[deps]
+
+source_file="res://assets/Game_Level_Objects/assets/audio/Gamemaster Audio -  Explosion Sound Pack/explosion_large_08.wav"
+dest_files=[ "res://.import/explosion_large_08.wav-557dbc518d35541ac3b28cc6e40d2194.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

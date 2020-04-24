@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/retro_powerup_collect_11.wav-6d7fef4ecd22f7e273d3f88d9ed4ddeb.sample"
+
+[deps]
+
+source_file="res://assets/Game_Level_Objects/assets/audio/Gamemaster Audio - Retro 8Bit Sounds/retro_powerup_collect_11.wav"
+dest_files=[ "res://.import/retro_powerup_collect_11.wav-6d7fef4ecd22f7e273d3f88d9ed4ddeb.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/vintage_radio_button_006.wav-d66eee41c6c9a913e3b3800502e120dc.sample"
+
+[deps]
+
+source_file="res://assets/Game_Level_Objects/assets/audio/3maze -  Buttons and Switches/vintage_radio_button_006.wav"
+dest_files=[ "res://.import/vintage_radio_button_006.wav-d66eee41c6c9a913e3b3800502e120dc.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

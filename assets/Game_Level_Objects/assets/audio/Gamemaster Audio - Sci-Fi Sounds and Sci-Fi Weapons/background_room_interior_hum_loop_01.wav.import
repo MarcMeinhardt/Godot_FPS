@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/background_room_interior_hum_loop_01.wav-5d0f0fc6cb0682b9536b2a2f97156a37.sample"
+
+[deps]
+
+source_file="res://assets/Game_Level_Objects/assets/audio/Gamemaster Audio - Sci-Fi Sounds and Sci-Fi Weapons/background_room_interior_hum_loop_01.wav"
+dest_files=[ "res://.import/background_room_interior_hum_loop_01.wav-5d0f0fc6cb0682b9536b2a2f97156a37.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

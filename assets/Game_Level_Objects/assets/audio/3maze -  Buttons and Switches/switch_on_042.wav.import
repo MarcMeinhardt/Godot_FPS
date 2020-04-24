@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/switch_on_042.wav-b9ffb9032dfee9aac0be17c4a78161e6.sample"
+
+[deps]
+
+source_file="res://assets/Game_Level_Objects/assets/audio/3maze -  Buttons and Switches/switch_on_042.wav"
+dest_files=[ "res://.import/switch_on_042.wav-b9ffb9032dfee9aac0be17c4a78161e6.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/light_switch_019.wav-22079625cb4cee1ec787070b0b1e56dc.sample"
+
+[deps]
+
+source_file="res://assets/Game_Level_Objects/assets/audio/3maze -  Buttons and Switches/light_switch_019.wav"
+dest_files=[ "res://.import/light_switch_019.wav-22079625cb4cee1ec787070b0b1e56dc.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

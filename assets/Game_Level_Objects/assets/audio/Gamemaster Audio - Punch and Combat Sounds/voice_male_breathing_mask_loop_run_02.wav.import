@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/voice_male_breathing_mask_loop_run_02.wav-cdc4f81e2a21567285a99d4f5607ad69.sample"
+
+[deps]
+
+source_file="res://assets/Game_Level_Objects/assets/audio/Gamemaster Audio - Punch and Combat Sounds/voice_male_breathing_mask_loop_run_02.wav"
+dest_files=[ "res://.import/voice_male_breathing_mask_loop_run_02.wav-cdc4f81e2a21567285a99d4f5607ad69.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

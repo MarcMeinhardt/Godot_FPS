@@ -1,0 +1,45 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://Player.tscn" type="PackedScene" id=1]
+
+[node name="Game_Level" type="Spatial"]
+
+[node name="WorldEnvironment" type="WorldEnvironment" parent="."]
+
+[node name="Floor" type="GridMap" parent="."]
+data = {
+"cells": PoolIntArray(  )
+}
+__meta__ = {
+"_editor_clip_": 0
+}
+
+[node name="Walls" type="GridMap" parent="."]
+data = {
+"cells": PoolIntArray(  )
+}
+__meta__ = {
+"_editor_clip_": 0
+}
+
+[node name="DirectionalLight" type="DirectionalLight" parent="."]
+
+[node name="DirectionalLight2" type="DirectionalLight" parent="."]
+
+[node name="Spawn_Points" type="Spatial" parent="."]
+
+[node name="Position3D" type="Position3D" parent="Spawn_Points"]
+
+[node name="Position3D2" type="Position3D" parent="Spawn_Points"]
+
+[node name="Position3D3" type="Position3D" parent="Spawn_Points"]
+
+[node name="Position3D4" type="Position3D" parent="Spawn_Points"]
+
+[node name="Position3D5" type="Position3D" parent="Spawn_Points"]
+
+[node name="Position3D6" type="Position3D" parent="Spawn_Points"]
+
+[node name="Position3D7" type="Position3D" parent="Spawn_Points"]
+
+[node name="Player" parent="." instance=ExtResource( 1 )]

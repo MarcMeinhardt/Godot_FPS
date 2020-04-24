@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/FOOTSTEP - Metal Board Walk Barefoot Male - 27.wav-fd414270a47890cf5887e8f9bd5817f3.sample"
+
+[deps]
+
+source_file="res://assets/Game_Level_Objects/assets/audio/Timothy McHugh -  Barefoot on Metal/FOOTSTEP - Metal Board Walk Barefoot Male - 27.wav"
+dest_files=[ "res://.import/FOOTSTEP - Metal Board Walk Barefoot Male - 27.wav-fd414270a47890cf5887e8f9bd5817f3.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

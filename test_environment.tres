@@ -1,0 +1,10 @@
+[gd_resource type="Environment" load_steps=2 format=2]
+
+[ext_resource path="res://test_proceduralsky.tres" type="ProceduralSky" id=1]
+
+[resource]
+background_mode = 2
+background_sky = ExtResource( 1 )
+ambient_light_color = Color( 0.370938, 0.370938, 0.370938, 1 )
+tonemap_mode = 2
+tonemap_exposure = 0.42

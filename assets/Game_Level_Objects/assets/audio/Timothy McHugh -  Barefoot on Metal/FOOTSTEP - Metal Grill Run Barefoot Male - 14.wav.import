@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/FOOTSTEP - Metal Grill Run Barefoot Male - 14.wav-0acf0de37aabc606023f88ec73c8df67.sample"
+
+[deps]
+
+source_file="res://assets/Game_Level_Objects/assets/audio/Timothy McHugh -  Barefoot on Metal/FOOTSTEP - Metal Grill Run Barefoot Male - 14.wav"
+dest_files=[ "res://.import/FOOTSTEP - Metal Grill Run Barefoot Male - 14.wav-0acf0de37aabc606023f88ec73c8df67.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

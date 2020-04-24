@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/SW001_8-Bit-Games-017_Explosion.wav-980341fbac8f13d334c9f59301c94b72.sample"
+
+[deps]
+
+source_file="res://assets/Game_Level_Objects/assets/audio/ShapingWaves -  8-BIT GAMES/SW001_8-Bit-Games-017_Explosion.wav"
+dest_files=[ "res://.import/SW001_8-Bit-Games-017_Explosion.wav-980341fbac8f13d334c9f59301c94b72.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

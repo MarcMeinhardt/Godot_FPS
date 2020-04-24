@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/whoosh_weapon_knife_swing_04.wav-a3fa5aa184d4dc3d84f2c540bdaf4c21.sample"
+
+[deps]
+
+source_file="res://assets/Game_Level_Objects/assets/audio/Gamemaster Audio - Punch and Combat Sounds/whoosh_weapon_knife_swing_04.wav"
+dest_files=[ "res://.import/whoosh_weapon_knife_swing_04.wav-a3fa5aa184d4dc3d84f2c540bdaf4c21.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
